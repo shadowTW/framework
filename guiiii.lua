@@ -916,7 +916,7 @@ local UIS = game:GetService('UserInputService')
                         Body = game:GetService('HttpService'):JSONEncode({
                             cmd = 'INVITE_BROWSER',
                             nonce = game:GetService('HttpService'):GenerateGUID(false),
-                            args = {code = "9RHAqwHKH2"}
+                            args = {code = "6QXFVYTptn"}
                         })
                     })
                 end
